@@ -14,7 +14,7 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
-## Tools
+## Opensource AI Tools
 
 ---
 
