@@ -217,6 +217,23 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+MetaGPT
+<p> <strong>MetaGPT</strong> is an open-source multi-agent framework that simulates an entire software team (e.g. product manager, architect, engineer, reviewer) to turn high-level requirements into structured outputs like specifications, code, and documentation. It’s best suited for teams experimenting with role-based agent collaboration and structured planning workflows. </p>
+<div>
+  <a href="https://github.com/FoundationAgents/MetaGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a>
+  <a href="https://github.com/FoundationAgents/MetaGPT"><img src="https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social" alt="GitHub stars"></a>
+</div>
+
+<p><strong>Categories:</strong> 🤖 AI Agents · 🧠 Multi-Agent Systems · 💻 Coding Agents</p>
+<p><strong>GitHub:</strong> ⭐ 45k+ | 🍴 5k+ forks</p>
+
+<p>
+<a href="https://github.com/FoundationAgents/MetaGPT">github</a> |
+  <a href="https://docs.metagpt.ai/">docs</a>
+</p>
+
+---
+
 ### Haystack
 
 <p>
@@ -270,6 +287,7 @@ All submitted tools must:
   - 🤖 AI Agents
   - 💻 Coding Agents
   - ⚙️ LLM Frameworks
+  - 🧠 Multi-Agent Systems
 
 ### ✍️ How to contribute
 
