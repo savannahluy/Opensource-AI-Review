@@ -10,7 +10,8 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 - 🤖 AI Agents & Autonomous Systems  
 - 💻 Coding Agents & Developer Tools  
-- ⚙️ LLM Frameworks & Orchestration  
+- ⚙️ LLM Frameworks & Orchestration
+- 🧠 Multi-Agent Systems
 
 ---
 
